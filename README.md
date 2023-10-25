@@ -42,8 +42,8 @@
 
 # Generic Question
 
--How many unique cities does the data have?
--In which city is each branch?
+- How many unique cities does the data have?
+- In which city is each branch?
 
 # product
 
