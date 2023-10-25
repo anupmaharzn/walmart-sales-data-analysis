@@ -85,15 +85,14 @@
 $ COGS = unitPrice \* quantity
 
 $ VAT = 5% \* COGS
-
-is added to the
+- is added to the
 and this is what is billed to the customer.
 
 $ Total (Gross Sales) = VAT + COGS
-This represents the total amount billed to the customer, including the COGS and VAT.
+- This represents the total amount billed to the customer, including the COGS and VAT.
 
 $ grossProfit(grossIncome) = total(gross_sales) - COGS $
-Gross Profit is the profit earned after deducting the cost of goods sold (COGS) and is also known as gross income.
+- Gross Profit is the profit earned after deducting the cost of goods sold (COGS) and is also known as gross income.
 
 $ gross Margin = (Gross Profit / Total Revenue (Gross Sales))
-Gross Margin is expressed as a percentage of the total revenue, indicating the profitability of the company's core operations.
+- Gross Margin is expressed as a percentage of the total revenue, indicating the profitability of the company's core operations.
